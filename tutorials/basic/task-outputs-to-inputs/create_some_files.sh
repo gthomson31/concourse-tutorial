@@ -1,6 +1,6 @@
 #!/bin/sh
 
-ls -alt
+ls -al
 mkdir some-files
 echo "file1" > some-files/file1
 echo "file2" > some-files/file2
